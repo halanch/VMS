@@ -13,5 +13,24 @@ namespace VMS.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult Login()
+        {
+            if (Session["userID"]!=null)
+            {
+                return RedirectToAction("Home", "Index");
+            }
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Login(string UserID,string Password)
+        {
+            if (Session["userID"] != null)
+            {
+                return RedirectToAction("Home", "Index");
+            }
+            return View();
+        }
     }
 }

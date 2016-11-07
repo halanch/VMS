@@ -28,6 +28,10 @@ E:\PROJECTS\VMS\VMS\bin\System.Web.Webpages.Deployment.xml
 E:\PROJECTS\VMS\VMS\bin\System.Web.Webpages.Razor.xml
 E:\PROJECTS\VMS\VMS\bin\System.Web.Helpers.xml
 E:\PROJECTS\VMS\VMS\bin\System.Web.Mvc.xml
-E:\PROJECTS\VMS\VMS\obj\Debug\VMS.csprojResolveAssemblyReference.cache
 E:\PROJECTS\VMS\VMS\obj\Debug\VMS.dll
 E:\PROJECTS\VMS\VMS\obj\Debug\VMS.pdb
+E:\PROJECTS\VMS\VMS\bin\EntityFramework.dll
+E:\PROJECTS\VMS\VMS\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\VMS\VMS\bin\EntityFramework.xml
+E:\PROJECTS\VMS\VMS\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\VMS\VMS\obj\Debug\VMS.csprojResolveAssemblyReference.cache
