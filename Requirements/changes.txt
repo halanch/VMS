@@ -1,0 +1,14 @@
+Date: 11/12/2016
+Initiator: Akhtar jamil
+Description: Changes made in the ERD
+1. Added a table SecurityQuestions
+Reason: We have fixed no of few questions to show to the volunteer
+2. Changed Login table to VolunteerSecurityQuestions
+Reason: Login information is already there: email and password in the volunteer table
+
+3. Added Training table
+4. Added VolunteerTraining
+5.  Added VolunteerRole
+6. Added ROle
+7 Added Permission
+8. Added RolePermission

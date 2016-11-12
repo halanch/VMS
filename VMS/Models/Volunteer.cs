@@ -23,7 +23,7 @@ namespace VMS.Models
         DateTime _DateofBirth;
         string _Gender;
 
-        public string VolunteerID
+        public long VolunteerID
         {
             get
             {
