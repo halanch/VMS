@@ -1,0 +1,9 @@
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\VMS.Model.dll.config
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\VMS.Model.dll
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\VMS.Model.pdb
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\EntityFramework.dll
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\EntityFramework.xml
+E:\PROJECTS\VMS\VMS.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECTS\VMS\VMS.Model\obj\Debug\VMS.Model.dll
+E:\PROJECTS\VMS\VMS.Model\obj\Debug\VMS.Model.pdb

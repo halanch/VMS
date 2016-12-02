@@ -35,3 +35,7 @@ E:\PROJECTS\VMS\VMS\bin\EntityFramework.SqlServer.dll
 E:\PROJECTS\VMS\VMS\bin\EntityFramework.xml
 E:\PROJECTS\VMS\VMS\bin\EntityFramework.SqlServer.xml
 E:\PROJECTS\VMS\VMS\obj\Debug\VMS.csprojResolveAssemblyReference.cache
+E:\PROJECTS\VMS\VMS\bin\VMS.DAL.dll
+E:\PROJECTS\VMS\VMS\bin\VMS.Model.dll
+E:\PROJECTS\VMS\VMS\bin\VMS.DAL.pdb
+E:\PROJECTS\VMS\VMS\bin\VMS.Model.pdb
